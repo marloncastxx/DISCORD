@@ -30,4 +30,4 @@ client.on('messageCreate', async(message) => {
 })
 
 //permite la conexion con el servidor
-client.login(process.env.DISCORD_BOT_ID)
+client.login(process.env.DISCORD_BOT_ID)   
